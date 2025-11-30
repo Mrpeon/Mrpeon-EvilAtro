@@ -1,0 +1,15 @@
+{
+	"id": "m_evil_jokers_m",
+	"name": "Evil Jokers",
+	"display_name": "Evil Jokers",
+	"author": ["Mrpeon"],
+	"description": "A mod that turns all wildcards into their evil version; each one has a 50% chance of becoming evil upon being obtained.",
+	"prefix": "m",
+	"main_file": "EvilJokersMod.lua",
+	"priority": 0,
+	"badge_colour": "708b91",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.9.4",
+	"dependencies": [
+	]
+}
